@@ -77,6 +77,7 @@ n1-1
     NoOperation
     NoOperation
     NoOperation
+    RETURN  Hello
 
 n1-2
     [Documentation]  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -84,6 +85,7 @@ n1-2
     ...     It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
     ...    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     [Arguments]    ${a}  ${b}  ${c}
+    [Return]  World
     NoOperation
     NoOperation
     NoOperation
@@ -227,6 +229,7 @@ n1-3
     NoOperation
     NoOperation
     NoOperation
+    RETURN  Hello
 
 n1-4
     [Documentation]  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -234,6 +237,7 @@ n1-4
     ...     It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
     ...    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     [Arguments]    ${a}  ${b}  ${c}
+    [Return]  World
     NoOperation
     NoOperation
     NoOperation
@@ -377,6 +381,7 @@ n1-5
     NoOperation
     NoOperation
     NoOperation
+    RETURN  Hello
 
 n1-6
     [Documentation]  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -384,6 +389,7 @@ n1-6
     ...     It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
     ...    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     [Arguments]    ${a}  ${b}  ${c}
+    [Return]  World
     NoOperation
     NoOperation
     NoOperation
@@ -527,6 +533,7 @@ n1-7
     NoOperation
     NoOperation
     NoOperation
+    RETURN  Hello
 
 n1-8
     [Documentation]  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -534,6 +541,7 @@ n1-8
     ...     It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
     ...    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     [Arguments]    ${a}  ${b}  ${c}
+    [Return]  World
     NoOperation
     NoOperation
     NoOperation
@@ -677,3 +685,4 @@ n1-9
     NoOperation
     NoOperation
     NoOperation
+    RETURN  Hello
