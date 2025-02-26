@@ -4,13 +4,13 @@ Library  QForce
 Suite Setup  Open Browser  about:blank  chrome
 Suite Teardown  Close All Browsers
 
-Variable    ./data/d1.yaml
-Variable    ./data/d2.yaml
-Variable    ./data/d3.yaml
-Variable    ./data/d4.yaml
+Variables    ./data/d1.yaml
+Variables    ./data/d2.yaml
+Variables    ./data/d3.yaml
+Variables    ./data/d4.yaml
 
 Resource    ../resources/all.resource
 
-*** Tests ***
+*** Test Cases ***
 t1
     No Operation
