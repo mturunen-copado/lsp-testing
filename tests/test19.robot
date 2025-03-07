@@ -9,7 +9,7 @@ Variables    ./data/d2.yaml
 Variables    ./data/d3.yaml
 Variables    ./data/d4.yaml
 
-Resource    ../resources/all.resource
+Resource    ../resources/nested_all.resource
 
 *** Test Cases ***
 t01
