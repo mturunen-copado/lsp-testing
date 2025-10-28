@@ -14,7 +14,7 @@ Resource    ../resources/nested_all.resource
 *** Test Cases ***
 t01
     No Operation
-
+    Log    data ${d1} ${e1}  ${f1} ${g1}    console=true
     n1-1  1  2  3
     n1-2  1  2  3
     n1-3  1  2  3
