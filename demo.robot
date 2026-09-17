@@ -3,5 +3,5 @@ Library  QWeb
 
 *** Test Cases ***
 dummy
-    OpenBrowser   about:blank  chrome
     No Operation
+    OpenBrowser   about:blank  chrome
