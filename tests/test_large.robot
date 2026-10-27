@@ -15,7 +15,7 @@ Resource    ../resources/nested_all.resource
 Resource    ../resources/large_all.resource
 
 *** Test Cases ***
-l01
+l01 - loooong - teeeeeeest - naaaaame - wiiiiiith -> because why not
     No Operation
 
     n1-1  1  2  3
